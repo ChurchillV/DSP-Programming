@@ -1,5 +1,7 @@
 **/images/
+**/audio/
 *.png
 *.jpg
 *.exe
 *.wav
+__pycache__
