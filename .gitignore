@@ -4,4 +4,6 @@
 *.jpg
 *.exe
 *.wav
+*.txt
+*.gp
 __pycache__
